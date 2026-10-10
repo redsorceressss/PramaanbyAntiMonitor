@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+models/*.joblib
+*.sqlite3
+.DS_Store
+
+# Datasets and document samples
+data/raw/
+archive/
+*.pdf
